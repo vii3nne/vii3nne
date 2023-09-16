@@ -7,10 +7,12 @@ and **KAIST CCE** (Center for Creative Entrepreneur, 14th)!
 
 #### 🧑🏻‍💻 What can I do?
 *a little bit* of **JS & HTML & CSS**
+
 **C, C++, Python**
 
 #### 📚 I'm currently learning...
 Electron
+
 Java & Kotlin
 
 
