@@ -1,4 +1,20 @@
-### Hi there 👋
+### Hi 👋
+
+#### 👀 Who am I?
+I'm currently a high school student going to **Hanil High School** (37th, grade 1) 
+and **KAIST CCE** (Center for Creative Entrepreneur, 14th)!
+
+#### 🧑🏻‍💻 What can I do?
+*a little bit* of **JS & HTML & CSS**
+**C, C++, Python**
+
+#### 📚 I'm currently learning...
+Electron
+Java & Kotlin
+
+
+
+
 
 <!--
 **jonghyunii/jonghyunii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
