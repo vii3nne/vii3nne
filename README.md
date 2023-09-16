@@ -2,6 +2,7 @@
 
 #### 👀 Who am I?
 I'm currently a high school student going to **Hanil High School** (37th, grade 1) 
+
 and **KAIST CCE** (Center for Creative Entrepreneur, 14th)!
 
 #### 🧑🏻‍💻 What can I do?
