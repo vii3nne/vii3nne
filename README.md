@@ -5,14 +5,11 @@ I'm currently a high school student going to **HIHS** (37th, grade 1)
 and **KAIST CCE** (Center for Creative Entrepreneur, 14th)!
 
 #### 🧑🏻‍💻 What can I do?
-*a little bit* of **JS & HTML & CSS**
-
-**C, C++, Python**
+*a little bit* of **JS, C, C++, Python**
 
 #### 📚 I'm currently learning...
-Electron
-
-Java & Kotlin
+- Electron
+- Java & Kotlin
 
 
 
